@@ -7,7 +7,6 @@
 </p>
 
 ### ⭐ GitHub Analytics
-
 <table>
   <tr>
     <td>
