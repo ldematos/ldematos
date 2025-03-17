@@ -59,7 +59,7 @@ Sou iniciante em programação. Atualmente, estou estudando programação e trab
   <a href="mailto:larissa.sant.matos@gmail.com">
     <img height="34" src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="www.linkedin.com/in/larissa-matos-b36198165">
+  <a href="in/larissa-matos-b36198165">
     <img height="34" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://www.instagram.com/ldmatos/">
