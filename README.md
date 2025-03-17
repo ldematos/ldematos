@@ -36,6 +36,8 @@ Sou iniciante em programação. Atualmente, estou estudando programação e trab
  </tr>
 </table>
 
+<br>
+
  ## 🦄 Linguagens:
 
 <code><img height="34" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
@@ -44,6 +46,7 @@ Sou iniciante em programação. Atualmente, estou estudando programação e trab
 <code><img height="34" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
 <code><img height="34" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
 </p>
+<br>
 
 ## 📜 Certificações: 
 
@@ -53,7 +56,6 @@ Sou iniciante em programação. Atualmente, estou estudando programação e trab
 </p>  
 
 ## 💌  Quer falar comigo? Fique à vontade para entrar em contato! ⤵️
-
 
 <p align="left">
   <a href="mailto:larissa.sant.matos@gmail.com">
