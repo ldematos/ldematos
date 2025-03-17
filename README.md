@@ -1,9 +1,11 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="380px" max-width="380px" width="380px" align="right">
+<br>
+
 <p align="left"> 
   Olá! 
   Meu nome é <strong>Larissa</strong> e sou iniciante em programação. 🚀
-  
-📚 Atualmente, estou estudando programação e trabalho com a manipulação de JavaScript para o acompanhamento de ações em sites. Além disso, estou em busca de oportunidades na área de desenvolvimento. Estou sempre aprendendo e aprimorando minhas habilidades para me tornar uma desenvolvedora cada vez melhor!
+  <br><br><br> 
+Atualmente, estou estudando programação e trabalho com a manipulação de JavaScript para o acompanhamento de ações em sites. Além disso, estou em busca de oportunidades na área de desenvolvimento. Estou sempre aprendendo e aprimorando minhas habilidades para me tornar uma desenvolvedora cada vez melhor!
 </p>
 
 <br><br> 
