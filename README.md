@@ -51,8 +51,8 @@ Sou iniciante em programação. Atualmente, estou estudando programação e trab
 ## 📜 Certificações: 
 
 <p align="left">
-  <a href="#" title="Creddly">
-  <img height="34" src="https://img.icons8.com/?size=100&id=NNd4vGyTTgrd&format=png&color=000000&link=https://www.credly.com/users/larissa-matos.da7d3e7c" alt="Creddly"/></a>
+  <a href="https://www.credly.com/users/larissa-matos.da7d3e7c" title="Creddly">
+  <img height="34" src="https://img.icons8.com/?size=100&id=NNd4vGyTTgrd&format=png&color=000000" alt="Creddly"/></a>
 </p>  
 
 ## 💌  Quer falar comigo? Fique à vontade para entrar em contato! ⤵️
