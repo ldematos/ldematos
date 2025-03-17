@@ -59,7 +59,7 @@ Sou iniciante em programação. Atualmente, estou estudando programação e trab
   <a href="#" title="Gmail">
   <img height="34" src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
   <a href="#" title="LinkedIn">
-  <img height="34" src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/larissa-matos-b36198165" alt="LinkedIn"/></a>
+  <img height="34" src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square" & logo="Linkedin" & logoColor="white" & link="www.linkedin.com/in/larissa-matos-b36198165" alt="LinkedIn"/></a>
   <a href="#" title="Instagram">
   <img height="34" src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/ldmatos/" alt="Instagram"/></a>
 </p>
