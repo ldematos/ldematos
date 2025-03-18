@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/736x/30/ca/5f/30ca5f3e5e6953e8cc5909ac0bfc8418.jpg" alt="ilustração de um computador" min-width="380px" max-width="380px" width="380px" align="right">
+<img src="https://i.pinimg.com/736x/3a/2a/7c/3a2a7c7db043bd0d0e0cc51256dc3dc6.jpg" alt="ilustração de um computador"  width="340px" align="right">
 
 ### Olá, meu nome é <strong>Larissa</strong>  🚀
 
