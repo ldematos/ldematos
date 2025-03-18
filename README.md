@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="380px" max-width="380px" width="380px" align="right">
+<img src="https://i.pinimg.com/736x/30/ca/5f/30ca5f3e5e6953e8cc5909ac0bfc8418.jpg" alt="ilustração de um computador" min-width="380px" max-width="380px" width="380px" align="right">
 
 ### Olá, meu nome é <strong>Larissa</strong>  🚀
 
