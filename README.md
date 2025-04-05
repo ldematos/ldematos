@@ -26,23 +26,24 @@ Sou iniciante em programação. Atualmente, estou estudando programação e trab
     <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=ldematos&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <br />
-      <img
-        align="left"
         src="https://github-readme-streak-stats.herokuapp.com/?user=ldematos&theme=ambient_gradient&hide_border=false"
         alt="Github Stats"
       />
     </td>
   </tr>
+<br><br> 
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=ldematos&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        alt="Github Stats"
+      />
+    </td>
 </table>
 
-<br>
 
+
+</table>
  ## 🦄 Linguagens:
 
 <code><img height="34" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
