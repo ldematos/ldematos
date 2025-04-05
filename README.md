@@ -42,8 +42,6 @@ Sou iniciante em programação. Atualmente, estou estudando programação e trab
 </table>
 
 
-
-</table>
  ## 🦄 Linguagens:
 
 <code><img height="34" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
