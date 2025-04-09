@@ -4,7 +4,7 @@
 
 <br>
 <p align="left"> 
-Sou iniciante em programação. Atualmente, estou estudando programação e trabalho com a manipulação de JavaScript para o acompanhamento de ações em sites. Além disso, estou em busca de oportunidades na área de desenvolvimento. Estou sempre aprendendo e aprimorando minhas habilidades para me tornar uma desenvolvedora cada vez melhor!
+Sou iniciante em programação. Atualmente, estou estudando Análise e Desenvolvimento de sistemas pelo Senac e trabalho com a manipulação de JavaScript para o acompanhamento de ações em sites. Além disso, estou em busca de oportunidades na área de desenvolvimento. Estou sempre aprendendo e aprimorando minhas habilidades para me tornar uma desenvolvedora cada vez melhor!
 
  🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 
