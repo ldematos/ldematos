@@ -8,8 +8,6 @@ Sou iniciante em programação. Atualmente, estou estudando Análise e Desenvolv
 
  🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 
- 
-🎓 Estudando Análise e Desenvolvimento de Sistemas no Senac.
 </p>
 
 <br><br> 
