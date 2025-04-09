@@ -14,6 +14,7 @@ Sou iniciante em programação. Atualmente, estou estudando Análise e Desenvolv
 
 <br><br> 
 ### ⭐ GitHub Analytics
+
 <table>
   <tr>
     <td>
@@ -41,14 +42,13 @@ Sou iniciante em programação. Atualmente, estou estudando Análise e Desenvolv
     </td>
 </table>
 
-
  ## 🦄 Linguagens:
 
-<code><img height="34" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
 <code><img height="34" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
 <code><img height="34" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
 <code><img height="34" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
 <code><img height="34" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
+<code><img  height="30" src="https://img.shields.io/badge/c%23-%23239120.svg"/></code>
 </p>
 <br>
 
