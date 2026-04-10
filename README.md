@@ -15,26 +15,12 @@ Sou iniciante em programação. Atualmente, estou estudando Análise e Desenvolv
     <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api?username=ldematos&theme=ambient_gradient&hide_border=false&include_all_commits=true"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <img
-        align="left"
         src="https://github-readme-streak-stats.herokuapp.com/?user=ldematos&theme=ambient_gradient&hide_border=false"
         alt="Github Stats"
       />
     </td>
   </tr>
 <br><br> 
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=ldematos&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github Stats"
-      />
-    </td>
 </table>
 
  ## 🦄 Linguagens:
